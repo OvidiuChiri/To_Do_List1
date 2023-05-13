@@ -21,8 +21,8 @@ tasks.txt – The text file where all our tasks will be stored,
 main.py – The python script file
 
 The steps you need to execute to build this projects are:
-Step 1: Importing libraries(Tkinter)
-Step2: Initializing the window with all the components(Frame, Heading, Button etc.)
+Step 1: Importing libraries(Tkinter),
+Step2: Initializing the window with all the components(Frame, Heading, Button etc.),
 Step3: Create the add_item and delete_item functions.
 
 
