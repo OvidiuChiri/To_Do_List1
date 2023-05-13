@@ -17,7 +17,7 @@ To-Do List is actually a list of your daily tasks to remind yourself of the task
 
 The files required in to-do list project are:
 
-tasks.txt – The text file where all our tasks will be stored
+tasks.txt – The text file where all our tasks will be stored,
 main.py – The python script file
 
 The steps you need to execute to build this projects are:
