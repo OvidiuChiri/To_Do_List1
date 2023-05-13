@@ -10,7 +10,7 @@ Step4:We add a database to the application to store the data.
 Step5: We add the necessary widgets to the application and apply the event triggers.
 Step6: Calling the functions in the main function of the application.
 
-#To_Do_List2
+
 2. Graphical User Interface(Gui) project in Python with Tkinter module.
 To-Do List is actually a list of your daily tasks to remind yourself of the tasks you have to accomplish that day. In this project, we are going to make a GUI based python to-do list with options to add and delete items in your list.
 
